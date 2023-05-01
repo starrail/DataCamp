@@ -1,4 +1,4 @@
-Using Joins to Analyze Book Sales in SQL
+Using Joins to Analyze Book Sales in SQL <br>
 https://www.datacamp.com/resources/webinars/ungated-using-joins-to-analyze-book-sales-in-sql
 
 Project Tasks
